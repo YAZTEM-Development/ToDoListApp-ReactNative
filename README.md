@@ -1,5 +1,7 @@
 # ToDoListApp-ReactNative
 
+Projenin %50'si eklenmiştir. Kalan kısımlar için eklemeniz gerekenler ve tasarımlar Figma dosyasında yer almaktadır. Başarılar.
+[Figma dosyasına gitmek için tıklayın.](https://www.figma.com/file/tqkol36YgBL3jUfK8YUovT/ToDoApp?node-id=0%3A1&t=BAf3GqakD6OR4L16-0)
 
 ## Installation
 
